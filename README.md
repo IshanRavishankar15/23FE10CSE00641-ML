@@ -1,6 +1,10 @@
 # ML Lab Project - 6th Semester
 
-Dataset: Parkinson's dataset (parkinsons.csv) used for classification and analysis exercises.
+**Student Name:** Ishan Ravishankar  
+**Registration No:** 23FE10CSE00641  
+**Dataset:** Parkinson's Dataset (`parkinsons.csv`)
+
+---
 
 ## Lab 1 - Intro to Data Analysis
 Exploratory data analysis, basic statistics, and initial data inspection.
@@ -22,6 +26,3 @@ Support Vector Machines for classification, kernel selection, and model tuning.
 
 ## Lab 7 - Decision Tree Classification
 Decision tree models, splitting criteria, pruning, and model evaluation.
-
-Name : Ishan Ravishankar
-Reg No: 23FE10CSE00641
